@@ -1,0 +1,9 @@
+E:\GitLocalRepo\ASPNetCoreWebSocket\.NetCore-Study\WebSocket\WebSocket\bin\Debug\netcoreapp1.1\WebSocket.deps.json
+E:\GitLocalRepo\ASPNetCoreWebSocket\.NetCore-Study\WebSocket\WebSocket\bin\Debug\netcoreapp1.1\WebSocket.runtimeconfig.json
+E:\GitLocalRepo\ASPNetCoreWebSocket\.NetCore-Study\WebSocket\WebSocket\bin\Debug\netcoreapp1.1\WebSocket.runtimeconfig.dev.json
+E:\GitLocalRepo\ASPNetCoreWebSocket\.NetCore-Study\WebSocket\WebSocket\bin\Debug\netcoreapp1.1\WebSocket.dll
+E:\GitLocalRepo\ASPNetCoreWebSocket\.NetCore-Study\WebSocket\WebSocket\obj\Debug\netcoreapp1.1\WebSocket.AssemblyInfo.cs
+E:\GitLocalRepo\ASPNetCoreWebSocket\.NetCore-Study\WebSocket\WebSocket\bin\Debug\netcoreapp1.1\WebSocket.pdb
+E:\GitLocalRepo\ASPNetCoreWebSocket\.NetCore-Study\WebSocket\WebSocket\obj\Debug\netcoreapp1.1\WebSocket.dll
+E:\GitLocalRepo\ASPNetCoreWebSocket\.NetCore-Study\WebSocket\WebSocket\obj\Debug\netcoreapp1.1\WebSocket.pdb
+E:\GitLocalRepo\ASPNetCoreWebSocket\.NetCore-Study\WebSocket\WebSocket\obj\Debug\netcoreapp1.1\WebSocket.csprojResolveAssemblyReference.cache
